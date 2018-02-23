@@ -23,4 +23,6 @@ preannotation.py usage:
   --directory DIRECTORY   Anafora directory to create preannotation files for
 ```
 
+Requires [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
+
 This repository also contains the latest versions of the CSV files used for the ClearEarth project's pre-annotation.
