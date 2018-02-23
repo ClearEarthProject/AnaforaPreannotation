@@ -12,7 +12,7 @@ Ice rinds,Ice_devel
 
 The preannotation script gives precedence to longer strings and does not doubly-annotate. It also treats strings as non-case-sensitive.
 
-The script also requires a path to the schema that contains the entity types (needed for "parentType" field in XML), the name used by the schema/mode (which is part of the filename).
+The script also requires a path to the Anafora schema that contains the entity types (needed for "parentType" field in XML) and the name used by the schema/mode (which is part of the filename).
 
 preannotation.py usage:
 ```
