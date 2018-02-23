@@ -1,6 +1,6 @@
 # Anafora Automatic Pre-Annotation
 
-This script creates Anafora pre-annotation files, marking any occurences of a string as a given entity type. The strings and corresponding entities are specified using a CSV file. For example:
+This script creates [Anafora](https://github.com/weitechen/anafora) pre-annotation files, marking any occurences of a string as a given entity type. The strings and corresponding entities are specified using a CSV file. For example:
 
 ```
 Floating ice,Ice_attachment
