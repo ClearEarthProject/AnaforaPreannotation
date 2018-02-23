@@ -1,0 +1,984 @@
+accidental rock,Environment_Context
+accretionary lava ball,Environment_Context
+accumulate,Eventuality
+accumulated,Eventuality
+accumulates,Eventuality
+accumulating,Eventuality
+acidic,Trait
+active,Trait
+active fault,Environment_Context
+active fault zone,Environment_Context
+active fault zones,Environment_Context
+active faults,Environment_Context
+active margin,Environment_Context
+active margins,Environment_Context
+active region,Environment_Context
+active regions,Environment_Context
+activities,Eventuality
+activity,Eventuality
+aftershock,Eventuality
+aftershocks,Eventuality
+aftershock activity,Eventuality
+aftershock activities,Eventuality
+aftershock decay,Eventuality
+aftershock sequence,Eventuality
+aftershock zone,Environment_Context
+aftershock zones,Environment_Context
+age,Trait
+agglutinate,Environment_Context
+ambient temperature,Trait
+ampere,Unit
+amplitude,Trait
+andesite,Environment_Context
+angle,Trait
+angle,Trait
+arrival,Eventuality
+arrival time,Trait
+arrive,Eventuality
+arrived,Eventuality
+arrives,Eventuality
+arriving,Eventuality
+aseismic,Trait
+aseismic zone,Environment_Context
+aseismic zones,Environment_Context
+ash,Environment_Context
+ash cone,Environment_Context
+ash flow,Eventuality
+ashfall,Environment_Context
+asperity,Trait
+asthenosphere,Environment_Context
+attenuate,Eventuality
+attenuated,Eventuality
+attenuates,Eventuality
+attenuation,Eventuality
+attractive,Trait
+auxiliary fault-plane,Environment_Context
+avalanche,Eventuality
+avalanches,Eventuality
+background seismicity rate,Trait
+background seismicity rates,Trait
+barrier,Environment_Context
+basalt,Environment_Context
+basic,Trait
+basin,Environment_Context
+basins,Environment_Context
+bench,Environment_Context
+benioff zone,Environment_Context
+big,Trait
+blind fault,Environment_Context
+blind faults,Environment_Context
+blind thrust,Eventuality
+blind thrust,Environment_Context
+blind thrusts,Environment_Context
+blister,Environment_Context
+block,Environment_Context
+blocks,Environment_Context
+body,Environment_Context
+body wave,Eventuality
+boil,Eventuality
+boiled,Eventuality
+boiling,Eventuality
+boils,Eventuality
+boundaries,Environment_Context
+boundary,Environment_Context
+break,Eventuality
+break-up,Eventuality
+breaking,Eventuality
+breaks,Eventuality
+breccia,Environment_Context
+brittle failure,Eventuality
+brittle fracture,Eventuality
+brittle zone,Environment_Context
+brittle zones,Environment_Context
+brittle-ductile boundaries,Environment_Context
+brittle-ductile boundary,Environment_Context
+broke,Eventuality
+broken,Eventuality
+build up,Eventuality
+building up,Eventuality
+builds up,Eventuality
+built up,Eventuality
+bump,Eventuality
+bumped,Eventuality
+bumping,Eventuality
+bumps,Eventuality
+caldera,Environment_Context
+candela,Unit
+capable fault,Environment_Context
+capable faults,Environment_Context
+centimeter,Unit
+centimeters,Unit
+central vent,Environment_Context
+central vents,Environment_Context
+central volcano,Environment_Context
+central volcanoes,Environment_Context
+characteristic earthquake,Eventuality
+cinder cone,Environment_Context
+cirque,Environment_Context
+close,Trait
+coast,Environment_Context
+coasts,Environment_Context
+coda,Eventuality
+cold,Trait
+collapse,Eventuality
+collide,Eventuality
+collided,Eventuality
+collides,Eventuality
+colliding,Eventuality
+collision,Eventuality
+composite volcano,Environment_Context
+compound volcano,Environment_Context
+compressional stress,Eventuality
+compressional wave,Eventuality
+conduit,Environment_Context
+cone,Environment_Context
+consolidation,Trait
+constant,Trait
+continent,Environment_Context
+continent-continent collision,Eventuality
+continental crust,Environment_Context
+continental drift,Eventuality
+continental shelf,Environment_Context
+continents,Environment_Context
+convecting,Eventuality
+convection,Eventuality
+convection current,Eventuality
+converge,Eventuality
+converged,Eventuality
+convergence,Eventuality
+convergent plate boundaries,Environment_Context
+convergent plate boundary,Environment_Context
+convergent boundary,Environment_Context
+convergent boundaries,Environment_Context
+converges,Eventuality
+converging,Eventuality
+cool,Eventuality
+cooling,Eventuality
+cools,Eventuality
+core,Environment_Context
+cores,Environment_Context
+country rock,Environment_Context
+crack,Eventuality
+cracked,Eventuality
+cracking,Eventuality
+cracks,Eventuality
+crater,Environment_Context
+craters,Environment_Context
+craton,Environment_Context
+creep,Eventuality
+creeping,Eventuality
+creeps,Eventuality
+crumple,Eventuality
+crumpled,Eventuality
+crumples,Eventuality
+crumpling,Eventuality
+crust,Environment_Context
+crusts,Environment_Context
+cryoseism,Eventuality
+cryoseisms,Eventuality
+current,Eventuality
+currents,Eventuality
+curtain of fire,Environment_Context
+dacite,Environment_Context
+damping,Eventuality
+debris avalanche,Eventuality
+debris flow,Eventuality
+decay rate,Trait
+decay rates,Trait
+deep,Trait
+deep ocean trench,Environment_Context
+deform,Eventuality
+deformation,Eventuality
+deforming,Eventuality
+deforms,Eventuality
+dense,Trait
+density,Trait
+depth,Trait
+destroy,Eventuality
+destroyed,Eventuality
+destroying,Eventuality
+destroys,Eventuality
+detachment plane,Environment_Context
+diatreme,Environment_Context
+dilatant,Trait
+dilatational wave,Eventuality
+dip,Trait
+dip-slip fault,Environment_Context
+dip-slip faults,Environment_Context
+disperse,Eventuality
+dispersed,Eventuality
+dispersion,Eventuality
+distance,Trait
+distant,Trait
+distortional wave,Eventuality
+distribution,Trait
+divergent plate boundaries,Environment_Context
+divergent plate boundary,Environment_Context
+dome,Environment_Context
+domes,Environment_Context
+dormant,Trait
+drain,Eventuality
+drainage basin,Environment_Context
+drained,Eventuality
+draining,Eventuality
+drift,Eventuality
+drifted,Eventuality
+drifting,Eventuality
+duration,Trait
+Earth,Location
+earthquake,Eventuality
+earthquake activities,Eventuality
+earthquake activity,Eventuality
+earthquake event,Eventuality
+earthquake events,Eventuality
+earthquake swarm,Eventuality
+earthquake swarms,Eventuality
+earthquakes,Eventuality
+east,Direction
+eastern,Direction
+effusive,Trait
+ejecta,Environment_Context
+elastic energy,Eventuality
+elastic strain,Eventuality
+elastic stress,Eventuality
+elastic wave,Eventuality
+elasticity,Trait
+elevation,Trait
+energy,Eventuality
+energy,Trait
+epicenter,Environment_Context
+epicenters,Environment_Context
+episodic tremor and slip,Eventuality
+equivoluminal wave,Eventuality
+erode,Eventuality
+eroded,Eventuality
+erodes,Eventuality
+eroding,Eventuality
+erosion,Eventuality
+erupt,Eventuality
+erupted,Eventuality
+erupting,Eventuality
+eruption,Eventuality
+eruption cloud,Eventuality
+eruptive vent,Environment_Context
+eruptive vents,Environment_Context
+erupts,Eventuality
+escarpment,Environment_Context
+ETS,Eventuality
+event,Eventuality
+events,Eventuality
+explode,Eventuality
+exploded,Eventuality
+explodes,Eventuality
+exploding,Eventuality
+explosion,Eventuality
+explosions,Eventuality
+extension,Eventuality
+exterior,Environment_Context
+external,Trait
+extinct,Trait
+extrusion,Eventuality
+extrusions,Eventuality
+extrusive,Trait
+fall,Eventuality
+falling,Eventuality
+far,Trait
+fast,Trait
+fault,Environment_Context
+fault creep,Eventuality
+fault gouge,Environment_Context
+fault movement,Eventuality
+fault slip,Eventuality
+fault system,Environment_Context
+faulting,Eventuality
+faults,Environment_Context
+fault plane,Environment_Context
+fault planes,Environment_Context
+fault rupture,Eventuality
+faulted rocks,Environment_Context
+fell,Eventuality
+felsic,Trait
+fire,Eventuality
+fire fountain,Eventuality
+first arrival,Eventuality
+fissure,Environment_Context
+fissures,Environment_Context
+flank,Eventuality
+flood,Eventuality
+flooded,Eventuality
+flooding,Eventuality
+floods,Eventuality
+flow,Eventuality
+flowed,Eventuality
+flower structure,Environment_Context
+flowing,Eventuality
+flows,Eventuality
+fluvial,Trait
+focal depth,Trait
+focal zone,Environment_Context
+focal zones,Environment_Context
+foci,Environment_Context
+focus,Environment_Context
+fold,Environment_Context
+folds,Environment_Context
+foot wall,Environment_Context
+footwall,Environment_Context
+force,Eventuality
+forced,Eventuality
+forces,Eventuality
+forcing,Eventuality
+foreshock,Eventuality
+foreshocks,Eventuality
+form,Eventuality
+formation,Eventuality
+formed,Eventuality
+forming,Eventuality
+forms,Eventuality
+fracture,Eventuality
+fractured,Eventuality
+fractures,Eventuality
+fracturing,Eventuality
+freeze cycle,Eventuality
+frequency,Trait
+frequency content,Trait
+friction,Eventuality
+frost quake,Eventuality
+fumarole,Environment_Context
+gas,Trait
+geologic fold,Environment_Context
+geologic folds,Environment_Context
+geologic force,Eventuality
+geologic forces,Eventuality
+geological process,Eventuality
+geological processes,Eventuality
+geothermal energy,Eventuality
+glacier,Environment_Context
+glaciers,Environment_Context
+gouge,Environment_Context
+gouges,Environment_Context
+graben,Environment_Context
+gravitational force,Eventuality
+gravitational forces,Eventuality
+grew,Eventuality
+grind,Eventuality
+grinding,Eventuality
+grinds,Eventuality
+ground,Environment_Context
+ground faulting,Eventuality
+ground motion,Eventuality
+ground movement,Eventuality
+ground release,Eventuality
+ground rupture,Eventuality
+ground shaking,Eventuality
+grow,Eventuality
+growing,Eventuality
+grows,Eventuality
+growth,Eventuality
+Gutenberg discontinuity,Trait
+guyot,Environment_Context
+hanging wall,Environment_Context
+hardness,Trait
+harmonic tremor,Eventuality
+harmonic tremors,Eventuality
+heat,Eventuality
+heating,Eventuality
+height,Trait
+high,Trait
+horizontal blast,Eventuality
+horizontal blasts,Eventuality
+horst,Environment_Context
+hot,Trait
+hotspot,Environment_Context
+hotspots,Environment_Context
+hyaloclastite,Environment_Context
+hydrothermal reservoir,Environment_Context
+hypocenter,Environment_Context
+hypocenters,Environment_Context
+ice,Environment_Context
+igneous,Environment_Context
+ignimbrite,Environment_Context
+inactive,Trait
+inch,Unit
+inches,Unit
+inclined fault,Environment_Context
+inclined faults,Environment_Context
+incompressibility,Trait
+initial earthquake,Eventuality
+initial earthquakes,Eventuality
+initial rupture,Eventuality
+initial rupture point,Environment_Context
+initial rupture points,Environment_Context
+inner,Trait
+intense,Trait
+intensity,Trait
+interior,Environment_Context
+intermediate,Trait
+internal,Trait
+interplate earthquake,Eventuality
+intrusion,Eventuality
+intrusive,Trait
+inundation,Eventuality
+irrotational wave,Eventuality
+island,Environment_Context
+island arc,Environment_Context
+island chain,Environment_Context
+island chains,Environment_Context
+islands,Environment_Context
+isostasy,Eventuality
+jostle,Eventuality
+jostled,Eventuality
+jostles,Eventuality
+jostling,Eventuality
+kelvin,Unit
+kilogram,Unit
+kilometer,Unit
+kilometers,Unit
+kipuka,Environment_Context
+lahar,Eventuality
+landmass,Environment_Context
+landmasses,Environment_Context
+landslide,Eventuality
+landslides,Eventuality
+lapilli,Environment_Context
+large,Trait
+large tectonic plate,Environment_Context
+lava,Environment_Context
+lava delta,Environment_Context
+lava deltas,Environment_Context
+lava dome,Environment_Context
+lava domes,Environment_Context
+lava flow,Eventuality
+lava fountain,Eventuality
+lava lake,Environment_Context
+lava lakes,Environment_Context
+lava shield,Environment_Context
+lava shields,Environment_Context
+lava tube,Environment_Context
+layer,Environment_Context
+layers,Environment_Context
+left-lateral fault,Environment_Context
+left-lateral faults,Environment_Context
+left-lateral offset,Environment_Context
+length,Trait
+lg wave,Eventuality
+lift,Eventuality
+lifted,Eventuality
+lifting,Eventuality
+lifts,Eventuality
+liquefaction,Eventuality
+liquid,Trait
+lithic,Trait
+lithosphere,Environment_Context
+local tsunami,Eventuality
+long,Trait
+longitudinal wave,Eventuality
+love wave,Eventuality
+low,Trait
+low lying,Trait
+low-velocity zone,Environment_Context
+low-velocity zones,Environment_Context
+lower,Trait
+luster,Trait
+maar,Environment_Context
+mafic,Trait
+magma,Environment_Context
+magma chamber,Environment_Context
+magmatic,Trait
+magmatic bodies,Environment_Context
+magmatic body,Environment_Context
+magnitude,Trait
+main earthquake,Eventuality
+main shock,Eventuality
+main shocks,Eventuality
+major tectonic plate,Environment_Context
+major tectonic plates,Environment_Context
+mantle,Environment_Context
+mantle convection,Eventuality
+mantle plume,Environment_Context
+mantle plumes,Environment_Context
+material,Environment_Context
+megathrust,Eventuality
+megathrust earthquake,Eventuality
+megathrust earthquakes,Eventuality
+megathrusting,Eventuality
+meizoseismal region,Environment_Context
+meizoseismal regions,Environment_Context
+melt,Eventuality
+melted,Eventuality
+melting,Eventuality
+melts,Eventuality
+metamorphic,Environment_Context
+meter,Unit
+meters,Unit
+micro earthquake,Eventuality
+micro earthquakes,Eventuality
+microseism,Eventuality
+microseisms,Eventuality
+mid-ocean ridge,Environment_Context
+mid-ocean ridges,Environment_Context
+middle,Trait
+mile,Unit
+miles,Unit
+minor tectonic plate,Environment_Context
+minor tectonic plates,Environment_Context
+mohorovicic discontinuity,Trait
+mole,Unit
+moment,Trait
+monogenetic,Trait
+motion,Eventuality
+motions,Eventuality
+mountain,Environment_Context
+mountain range,Environment_Context
+mountain ranges,Environment_Context
+mountains,Environment_Context
+move,Eventuality
+moved,Eventuality
+movement,Eventuality
+movements,Eventuality
+moves,Eventuality
+moving,Eventuality
+mudflow,Eventuality
+mudflows,Eventuality
+narrow,Trait
+near,Trait
+non-explosive,Trait
+normal fault,Environment_Context
+normal faults,Environment_Context
+north,Direction
+northeast,Direction
+northern,Direction
+northwest,Direction
+nuees ardentes,Eventuality
+oblique fault,Environment_Context
+obsidian,Environment_Context
+occurrence interval,Trait
+ocean,Environment_Context
+ocean spreading,Eventuality
+ocean spreads,Eventuality
+ocean-continent collision,Eventuality
+ocean-ocean collision,Eventuality
+oceanic basin,Environment_Context
+oceanic basins,Environment_Context
+oceanic ridge,Environment_Context
+oceanic ridges,Environment_Context
+oceanic spread ridge,Environment_Context
+oceanic spreading center,Environment_Context
+oceans,Environment_Context
+offset,Environment_Context
+olique faults,Environment_Context
+origin time,Trait
+outer,Trait
+outermost,Trait
+p wave,Eventuality
+pace,Trait
+pangea,Environment_Context
+peralkaline,Environment_Context
+period,Trait
+phase,Trait
+phenocryst,Environment_Context
+phreatic,Eventuality
+phreatomagmatic,Eventuality
+pillow lava,Environment_Context
+pipe,Environment_Context
+pit crater,Environment_Context
+plane,Environment_Context
+planes,Environment_Context
+planet,Location
+plasticity,Trait
+plate,Environment_Context
+plate boundaries,Environment_Context
+plate boundary,Environment_Context
+plate movement,Eventuality
+plate tectonics,Eventuality
+plates,Environment_Context
+plinian,Eventuality
+plug,Environment_Context
+plug dome,Environment_Context
+plume,Environment_Context
+plumes,Environment_Context
+polygenetic,Trait
+potential energy,Eventuality
+precursor,Eventuality
+press,Eventuality
+presses,Eventuality
+pressing,Eventuality
+pressure,Trait
+pressure wave,Eventuality
+primary wave,Eventuality
+process,Eventuality
+processes,Eventuality
+propagate,Eventuality
+propagated,Eventuality
+propagates,Eventuality
+propagating,Eventuality
+pull,Eventuality
+pulled,Eventuality
+pulling,Eventuality
+pulls,Eventuality
+pumice,Environment_Context
+push wave,Eventuality
+push-pull wave,Eventuality
+pyroclastic,Environment_Context
+pyroclastic flow,Eventuality
+quick,Trait
+rate,Trait
+rate of decay,Trait
+rates of decay,Trait
+Rayleigh wave,Eventuality
+recurrence interval,Trait
+recurrence time,Trait
+recycle,Eventuality
+recycled,Eventuality
+recycles,Eventuality
+recycling,Eventuality
+reflect,Eventuality
+reflected,Eventuality
+reflecting,Eventuality
+reflects,Eventuality
+refract,Eventuality
+refracted,Eventuality
+refracting,Eventuality
+regional tsunami,Eventuality
+release,Eventuality
+released,Eventuality
+releases,Eventuality
+releasing,Eventuality
+relief,Eventuality
+relief,Environment_Context
+renewed volcanism state,Eventuality
+repose,Trait
+repulsive,Trait
+return period,Trait
+reverse fault,Environment_Context
+reverse faults,Environment_Context
+rhyodacite,Environment_Context
+rhyolite,Environment_Context
+rift,Eventuality
+rift system,Environment_Context
+rift systems,Environment_Context
+rift valley,Environment_Context
+rift valleys,Environment_Context
+rift zone,Environment_Context
+rift zones,Environment_Context
+rifted,Eventuality
+rifting,Eventuality
+rifts,Eventuality
+right-lateral fault,Environment_Context
+right-lateral faults,Environment_Context
+right-lateral offset,Environment_Context
+rigid,Trait
+rigidity,Trait
+rise,Eventuality
+rises,Eventuality
+rising,Eventuality
+risk,Trait
+rock,Environment_Context
+rock bodies,Environment_Context
+rock body,Environment_Context
+rock layer,Environment_Context
+rock layers,Environment_Context
+rocks,Environment_Context
+rose,Eventuality
+rotational wave,Eventuality
+runup height,Trait
+rupture,Eventuality
+rupture zone,Environment_Context
+rupture zones,Environment_Context
+s wave,Eventuality
+sag,Environment_Context
+sank,Eventuality
+scarp,Environment_Context
+scoria,Environment_Context
+scrape,Eventuality
+scraped,Eventuality
+scrapes,Eventuality
+scraping,Eventuality
+sea floor spreading,Eventuality
+sea level,Value
+seamount,Environment_Context
+second,Unit
+secondary wave,Eventuality
+sedimentary,Environment_Context
+segmentation,Eventuality
+segmenting,Eventuality
+seiche,Eventuality
+seiche wave,Eventuality
+seism,Eventuality
+seismic,Trait
+seismic activities,Eventuality
+seismic activity,Eventuality
+seismic belt,Environment_Context
+seismic discontinuity,Environment_Context
+seismic energy,Eventuality
+seismic event,Eventuality
+seismic events,Eventuality
+seismic gap,Environment_Context
+seismic gaps,Environment_Context
+seismic moment,Trait
+seismic process,Eventuality
+seismic processes,Eventuality
+seismic risk,Trait
+seismic sea wave,Eventuality
+seismic wave,Eventuality
+seismic waves,Eventuality
+seismic zone,Environment_Context
+seismic zones,Environment_Context
+seismicity,Eventuality
+seismicity rate,Trait
+seismicity rates,Trait
+seisms,Eventuality
+settlement,Eventuality
+severity,Trait
+shadow zone,Environment_Context
+shadow zones,Environment_Context
+shake wave,Eventuality
+shaken,Eventuality
+shaking,Eventuality
+shallow,Trait
+shear,Eventuality
+shear stress,Eventuality
+shear wave,Eventuality
+shear zone,Environment_Context
+shear zones,Environment_Context
+shearing,Eventuality
+shield volcano,Environment_Context
+shock,Eventuality
+shook,Eventuality
+short,Trait
+shoshonite,Environment_Context
+sink,Eventuality
+sinking,Eventuality
+size,Trait
+skylight,Environment_Context
+skylights,Environment_Context
+slab,Environment_Context
+slabs,Environment_Context
+slid,Eventuality
+slide,Eventuality
+slides,Eventuality
+sliding,Eventuality
+slip,Eventuality
+slipping,Eventuality
+slips,Eventuality
+slow,Trait
+small,Trait
+small tectonic plate,Environment_Context
+small tectonic plates,Environment_Context
+soil amplification,Eventuality
+soil settlement,Eventuality
+solar system,Location
+soldifying ,Eventuality
+solfatara,Environment_Context
+solid,Trait
+solidifies,Eventuality
+solidify,Eventuality
+south,Direction
+southeast,Direction
+southern,Direction
+southwest,Direction
+spatter cone,Environment_Context
+spatter rampart,Environment_Context
+speed,Trait
+spine,Environment_Context
+split,Eventuality
+spliting,Eventuality
+splits,Eventuality
+spread,Eventuality
+spreading,Eventuality
+spreads,Eventuality
+square kilometer,Unit
+square kilometers,Unit
+square mile,Unit
+square miles,Unit
+squeeze,Eventuality
+squeezed,Eventuality
+squeezes,Eventuality
+squeezing,Eventuality
+stick-slip behavior,Eventuality
+store,Eventuality
+stored,Eventuality
+stored energy,Eventuality
+stores,Eventuality
+storing,Eventuality
+strain,Eventuality
+strained,Eventuality
+straining,Eventuality
+strains,Eventuality
+stratovolcano,Environment_Context
+streak,Trait
+stream,Environment_Context
+streams,Environment_Context
+strength,Trait
+strengthen,Eventuality
+strengthens,Eventuality
+stress,Eventuality
+stressed,Eventuality
+stresses,Eventuality
+stressing,Eventuality
+strike,Eventuality
+strike-slip fault,Environment_Context
+strike-slip faults,Environment_Context
+strombolian,Eventuality
+subduction,Eventuality
+subduction zone,Environment_Context
+suduction zones,Environment_Context
+supercontinent,Environment_Context
+surface,Environment_Context
+surface area,Trait
+surface faulting,Eventuality
+surface temperature,Trait
+surface wave,Eventuality
+surge,Eventuality
+surged,Eventuality
+surges,Eventuality
+surging,Eventuality
+swarm,Eventuality
+swarmed,Eventuality
+swarming,Eventuality
+swarms,Eventuality
+system,Environment_Context
+systems,Environment_Context
+talus,Environment_Context
+tangential wave,Eventuality
+tectonic earthquake,Eventuality
+tectonic earthquakes,Eventuality
+tectonic force,Eventuality
+tectonic forces,Eventuality
+tectonic plate,Environment_Context
+tectonic plates,Environment_Context
+tectonic plate boundary,Environment_Context
+tectonic plate boundaries,Environment_Context
+tectonic process,Eventuality
+tectonic processes,Eventuality
+tectonics,Eventuality
+tectonite,Environment_Context
+tectonic boundary,Environment_Context
+tectonic boundaries,Environment_Context
+teleseism,Eventuality
+teleseisms,Eventuality
+temblor,Eventuality
+temblors,Eventuality
+temperature,Trait
+tensional stress,Eventuality
+tensional stresses,Eventuality
+tephra,Environment_Context
+thaw cycle,Eventuality
+thaw cycles,Eventuality
+the Moho,Trait
+thermal plume,Environment_Context
+thermal plumes,Environment_Context
+thick,Trait
+thickness,Trait
+thin,Trait
+thrust,Trait
+thrust fault,Environment_Context
+thrust faults,Environment_Context
+thrust of motion,Trait
+tidal force,Eventuality
+tidal forces,Eventuality
+tidal wave,Eventuality
+tidal waves,Eventuality
+tide,Eventuality
+tides,Eventuality
+tilt,Trait
+trachyandesite,Environment_Context
+trachybasalt,Environment_Context
+trachyte,Environment_Context
+transform,Eventuality
+transform boundary,Environment_Context
+transform boundaries,Environment_Context
+transform fault,Environment_Context
+transform faults,Environment_Context
+transform plate boundaries,Environment_Context
+transform plate boundary,Environment_Context
+transformation,Eventuality
+transformed,Eventuality
+transforming,Eventuality
+transforms,Eventuality
+transition zone,Environment_Context
+transition zones,Environment_Context
+transport,Eventuality
+transported,Eventuality
+transporting,Eventuality
+transports,Eventuality
+transverse wave,Eventuality
+transverse waves,Eventuality
+travel time,Trait
+tremor,Eventuality
+tremors,Eventuality
+trench,Environment_Context
+trenches,Environment_Context
+triple junction,Environment_Context
+tsunami,Eventuality
+tsunami,Eventuality
+tuff,Environment_Context
+tuff cone,Environment_Context
+tuff ring,Environment_Context
+tumulus,Environment_Context
+ultramafic,Trait
+upper,Trait
+valley,Environment_Context
+valleys,Environment_Context
+vegetation,Environment_Context
+velocity,Trait
+vent,Environment_Context
+vents,Environment_Context
+vesicle,Environment_Context
+vibrate,Eventuality
+vibrated,Eventuality
+vibrates,Eventuality
+vibrating,Eventuality
+vibration,Eventuality
+viscoelastic,Trait
+viscosity,Trait
+volcanic,Trait
+volcanic activities,Eventuality
+volcanic activity,Eventuality
+volcanic arc,Environment_Context
+volcanic bodies,Environment_Context
+volcanic body,Environment_Context
+volcanic complex,Environment_Context
+volcanic cone,Environment_Context
+volcanic dome,Environment_Context
+volcanic domes,Environment_Context
+volcanic eruption,Eventuality
+volcanic eruptions,Eventuality
+volcanic event,Eventuality
+volcanic events,Eventuality
+volcanic explosion,Eventuality
+volcanic explosions,Eventuality
+volcanic fissure,Environment_Context
+volcanic fissures,Environment_Context
+volcanic neck,Environment_Context
+volcanic process,Eventuality
+volcanic processes,Eventuality
+volcanism,Eventuality
+volcano,Environment_Context
+volcanoes,Environment_Context
+volume,Trait
+vulcanian,Eventuality
+wadati-benioff zone,Environment_Context
+wadati-benioff zones,Environment_Context
+water,Environment_Context
+wave,Eventuality
+wavelength,Trait
+waves,Eventuality
+weaken,Eventuality
+weakened,Eventuality
+weakening,Eventuality
+weather,Eventuality
+weathered,Eventuality
+weathering,Eventuality
+weathers,Eventuality
+west,Direction
+western,Direction
+wide,Trait
+width,Trait
+world,Location
+world-wide,Location
+xenocryst,Environment_Context
+yard,Unit
+yards,Unit
+zone,Environment_Context
+zones,Environment_Context
+mm/yr,Unit

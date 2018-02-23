@@ -1,0 +1,592 @@
+Floating ice,Ice_attachment
+Sea ice,Ice_source
+Sea-ice,Ice_source
+Fast-ice edge,Ice_arrangement
+Fast-ice edges,Ice_arrangement
+Fast ice edge,Ice_arrangement
+Fast ice edges,Ice_arrangement
+Fast ice boundary,Ice_arrangement
+Fast ice boundaries,Ice_arrangement
+Fast ice,Ice_attachment
+Drift ice,Ice_concentration
+pack ice,Ice_concentration
+Ice of land origin,Ice_source
+New lake ice,Ice_devel
+Thin lake ice,Ice_devel
+Medium lake ice,Ice_devel
+Very thick lake ice,Ice_devel
+Thick lake ice,Ice_devel
+Very thick lake ice,Ice_devel
+Lake ice,Ice_source
+River ice,Ice_source
+white ice first stage,Ice_devel
+white ice second stage,Ice_devel
+Grey-white ice,Ice_devel
+white ice,Ice_devel
+New ice,Ice_devel
+Frazil ice,Ice_devel
+Grease ice,Ice_devel
+Slush,Ice_devel
+Shuga,Ice_devel
+Dark nilas,Ice_devel
+Light nilas,Ice_devel
+Nilas,Ice_devel
+Standing floe,Ice_surface
+Standing floes,Ice_surface
+Ice rind,Ice_devel
+Ice rinds,Ice_devel
+Pancake ice,Ice_form
+Young ice,Ice_devel
+Grey ice,Ice_devel
+Thin first-year ice,Ice_devel
+Thin first year ice,Ice_devel
+Medium first-year ice,Ice_devel
+Medium first year ice,Ice_devel
+Thick first-year ice,Ice_devel
+Thick first year ice,Ice_devel
+First-year ice,Ice_devel
+First year ice,Ice_devel
+Old ice,Ice_devel
+Residual ice,Ice_devel
+Second-year ice,Ice_devel
+Second year ice,Ice_devel
+Multi-year ice,Ice_devel
+Multiyear ice,Ice_devel
+Snow Ice,Ice_devel
+Fast ice,Ice_attachment
+Young coastal ice,Ice_attachment
+Icefoot,Ice_attachment
+Icefeet,Ice_attachment
+Anchor ice,Ice_attachment
+Grounded ice,Ice_attachment
+Stranded ice,Ice_attachment
+Grounded hummock,Ice_attachment
+Grounded hummocks,Ice_attachment
+Compact ice,Ice_concentration
+Consolidated ice,Ice_concentration
+Very close ice,Ice_concentration
+Close ice,Ice_concentration
+Very open ice,Ice_concentration
+Open ice,Ice_concentration
+Open water,Ice_concentration
+Bergy water,Ice_concentration
+Ice-free,Ice_concentration
+Ice free,Ice_concentration
+Pancake ice,Ice_form
+Floeberg,Ice_form
+Floebergs,Ice_form
+Floebit,Ice_form
+Floebits,Ice_form
+Floe,Ice_form
+Floes,Ice_form
+Ice breccia,Ice_form
+Brash ice,Ice_form
+Glacier berg,Ice_form
+Glacier bergs,Ice_form
+Tabular berg,Ice_form
+Tabular bergs,Ice_form
+Ice island,Ice_form
+Ice islands,Ice_form
+Iceberg,Ice_form
+Icebergs,Ice_form
+Bergy bit,Ice_form
+Bergy bits,Ice_form
+Growler,Ice_form
+Growlers,Ice_form
+Large ice field,Ice_arrangement
+Large ice fields,Ice_arrangement
+Medium ice field,Ice_arrangement
+Medium ice fields,Ice_arrangement
+Small ice field,Ice_arrangement
+Small ice fields,Ice_arrangement
+Ice field,Ice_arrangement
+Ice fields,Ice_arrangement
+Ice patch,Ice_arrangement
+Ice patches,Ice_arrangement
+Ice massif,Ice_arrangement
+Ice massifs,Ice_arrangement
+Belt,Ice_arrangement
+Belts,Ice_arrangement
+Tongue,Ice_arrangement
+Tongues,Ice_arrangement
+Strip,Ice_arrangement
+Strips,Ice_arrangement
+Ice isthmus,Ice_arrangement
+Ice isthmuses,Ice_arrangement
+Bight,Ice_arrangement
+Bights,Ice_arrangement
+Ice jam,Ice_arrangement
+Ice jams,Ice_arrangement
+Compacted ice edge,Ice_arrangement
+Compacted ice edges,Ice_arrangement
+Jammed brash barrier,Ice_arrangement
+Jammed brash barriers,Ice_arrangement
+Diffuse ice edge,Ice_arrangement
+Diffuse ice edges,Ice_arrangement
+Ice edge,Ice_arrangement
+Ice edges,Ice_arrangement
+Ice boundary,Ice_arrangement
+Ice boundaries,Ice_arrangement
+Iceberg tongue,Ice_arrangement
+Iceberg tongues,Ice_arrangement
+Marginal Ice Zone,Ice_arrangement
+Marginal Ice Zones,Ice_arrangement
+Diverging,Eventuality
+Compacting,Eventuality
+Shearing,Eventuality
+Fracturing,Eventuality
+Hummocking,Eventuality
+Ridging,Eventuality
+Finger rafting,Eventuality
+Rafting,Eventuality
+Shore ice ride-up,Eventuality
+Shore ice ride-ups,Eventuality
+Shore ice rideup,Eventuality
+Shore ice rideups,Eventuality
+Shore ice ride up,Eventuality
+Shore ice ride ups,Eventuality
+Weathering,Eventuality
+Fracture,Openings_ice
+Fractures,Openings_ice
+Tide crack,Openings_ice
+Tide cracks,Openings_ice
+Crack,Openings_ice
+Cracks,Openings_ice
+Flaw lead,Openings_ice
+Flaw leads,Openings_ice
+Flaw,Openings_ice
+Flaws,Openings_ice
+Fractures' concentration,Trait
+Very small fracture,Openings_ice
+Very small fractures,Openings_ice
+Small fracture,Openings_ice
+Small fractures,Openings_ice
+Medium fracture,Openings_ice
+Medium fractures,Openings_ice
+Large fracture,Openings_ice
+Large fractures,Openings_ice
+Fracture zone,Openings_ice
+Fracture zones,Openings_ice
+Shore lead,Openings_ice
+Shore leads,Openings_ice
+Lead,Openings_ice
+Leads,Openings_ice
+Shore polynya,Openings_ice
+Shore polynyas,Openings_ice
+Flaw polynya,Openings_ice
+Flaw polynyas,Openings_ice
+Recurring polynya,Openings_ice
+Recurring polynyas,Openings_ice
+Polynya,Openings_ice
+Polynyas,Openings_ice
+Level ice,Ice_surface
+Deformed ice,Ice_surface
+Finger rafted ice,Ice_surface
+Rafted ice,Ice_surface
+Ice rafting concentration,Trait
+Ridged ice,Ice_surface
+Consolidated ridge,Ice_surface
+Consolidated ridges,Ice_surface
+Shear ridge,Ice_surface
+Shear ridges,Ice_surface
+Ridge,Ice_surface
+Ridges,Ice_surface
+Hummock,Ice_surface
+Hummocks,Ice_surface
+Ice ridge concentration,Trait
+Hummocked ice,Ice_surface
+Rubble field,Ice_surface
+Rubble fields,Ice_surface
+Ram,Ice_surface
+Rams,Ice_surface
+Bare ice,Ice_surface
+Snow-covered ice,Ice_surface
+Snow covered ice,Ice_surface
+Snow cover concentration,Trait
+Sastrugi,Ice_surface
+Snowdrift,Ice_surface
+Snowdrifts,Ice_surface
+Dirty ice,Ice_surface
+Frost flowers,Ice_surface
+Puddle,Melting_stage
+Puddles,Melting_stage
+Thaw holes,Melting_stage
+Dried ice,Melting_stage
+Rotten ice,Melting_stage
+Flooded ice,Melting_stage
+Shore melt,Melting_stage
+Ice of land origin,Ice_source
+Firn,Ice_source
+Firns,Ice_source
+Glacier ice,Ice_source
+Glacier,Ice_source
+Glaciers,Ice_source
+Ice wall,Ice_source
+Ice walls,Ice_source
+Ice stream,Ice_source
+Ice streams,Ice_source
+Glacier tongue,Ice_source
+Glacier tongues,Ice_source
+Ice shelf,Ice_source
+Ice shelves,Ice_source
+Calving,Eventuality
+Water sky,Trait
+Ice blink,Trait
+Frost smoke,Trait
+air,Air
+shelf,Area
+ice sheet,Area
+snow cover,Area
+pond,Area
+arctic sea ice extent,Area
+sea ice extent,Area
+sea ice cover,Area
+ice extent,Area
+low-water mark,Area
+high-water mark,Area
+fractional coverage,Area
+ice cover,Area
+loss,Eventuality
+growth,Eventuality
+melt,Eventuality
+melt out,Eventuality
+decline,Eventuality
+melting,Eventuality
+drifting,Eventuality
+move,Eventuality
+broke,Eventuality
+broken up,Eventuality
+deplete,Eventuality
+survive,Eventuality
+open,Eventuality
+open up,Eventuality
+expand,Eventuality
+expanding,Eventuality
+increase,Eventuality
+decrease,Eventuality
+ice decline,Eventuality
+retreat,Eventuality
+decline,Eventuality
+grow,Eventuality
+absorb,Eventuality
+reflect,Eventuality
+clogs ,Eventuality
+gains,Eventuality
+dwindling,Eventuality
+dwindle,Eventuality
+floating,Eventuality
+deformation,Eventuality
+crevassing,Eventuality
+calving,Eventuality
+froze,Eventuality
+global warming,Eventuality
+form,Eventuality
+conglation,Eventuality
+forming,Eventuality
+re-frozen,Eventuality
+freeze-up,Eventuality
+pressure,Eventuality
+motion,Eventuality
+ice station,Location
+snow,Snow
+mass,Trait
+concentration,Trait
+thickness,Trait
+albedo,Trait
+depth,Trait
+temperature,Trait
+reflectivity,Trait
+density,Trait
+ATID,Trait
+extent,Trait
+width,Trait
+energy,Trait
+color,Trait
+texture,Trait
+opacity,Trait
+energy adsorption,Trait
+age,Trait
+sea level,Value
+water,Water
+air,Air
+channel,Area
+coast,Area
+coastline,Area
+cover,Area
+fractional coverage,Area
+mark,Area
+part,Area
+parts,Area
+passage,Area
+pond,Area
+region,Area
+river,Area
+route,Area
+sea,Area
+seas,Area
+sheet,Area
+shelf,Area
+shelves,Area
+shore,Area
+shores,Area
+side,Area
+sides,Area
+surface,Area
+ocean,Area 
+central,Direction
+clockwise,Direction
+counter-clockwise,Direction
+dipole-like,Direction
+east,Direction
+eastern,Direction
+north,Direction
+northeastern,Direction
+northern,Direction
+northwestern,Direction
+south,Direction
+southeastern,Direction
+southern ,Direction
+southward,Direction
+northward,Direction
+southerly,Direction
+westerly,Direction
+northerly,Direction
+easterly,Direction
+eastward,Direction
+westward,Direction
+southwestern,Direction
+west,Direction
+western,Direction
+absorb,Eventuality
+atmosphere,Eventuality
+break,Eventuality
+breaking,Eventuality
+broke,Eventuality
+broken up,Eventuality
+Calve,Eventuality
+calving,Eventuality
+change,Eventuality
+changed,Eventuality
+changes,Eventuality
+changing,Eventuality
+circulation,Eventuality
+clogs ,Eventuality
+cloud,Eventuality
+condition,Eventuality
+conditions,Eventuality
+conglation,Eventuality
+crevassing,Eventuality
+current,Eventuality
+currents,Eventuality
+decline,Eventuality
+declined,Eventuality
+declines,Eventuality
+declining,Eventuality
+decrease,Eventuality
+decreased,Eventuality
+decreases,Eventuality
+decreasing,Eventuality
+deformation,Eventuality
+deforms,Eventuality
+deplete,Eventuality
+drifting,Eventuality
+dwindle,Eventuality
+dwindled,Eventuality
+dwindling,Eventuality
+expand,Eventuality
+expanded,Eventuality
+expanding,Eventuality
+fall,Eventuality
+falling,Eventuality
+fell,Eventuality
+floating,Eventuality
+floats,Eventuality
+flow,Eventuality
+flowed,Eventuality
+flowing,Eventuality
+flows,Eventuality
+form,Eventuality
+formed,Eventuality
+forming,Eventuality
+freeze-up,Eventuality
+freezes,Eventuality
+freezing,Eventuality
+froze,Eventuality
+gained,Eventuality
+gaining,Eventuality
+gains,Eventuality
+global warming,Eventuality
+grew,Eventuality
+grow,Eventuality
+growing,Eventuality
+grows,Eventuality
+growth,Eventuality
+heat,Eventuality
+heated,Eventuality
+heating,Eventuality
+increase,Eventuality
+increased,Eventuality
+increases,Eventuality
+increasing,Eventuality
+intensified,Eventuality
+intensify,Eventuality
+intensifying ,Eventuality
+loss,Eventuality
+melt,Eventuality
+melt out,Eventuality
+melted,Eventuality
+melting,Eventuality
+melts,Eventuality
+motion,Eventuality
+move,Eventuality
+moved,Eventuality
+moving,Eventuality
+open,Eventuality
+open up,Eventuality
+opening,Eventuality
+oscilating,Eventuality
+oscillation,Eventuality
+pattern,Eventuality
+patterns,Eventuality
+phase,Eventuality
+phases,Eventuality
+pressure,Eventuality
+pressures,Eventuality
+re-frozen,Eventuality
+reach,Eventuality
+reached,Eventuality
+reaches,Eventuality
+reaching,Eventuality
+reduce,Eventuality
+reduced,Eventuality
+reducing,Eventuality
+reflect,Eventuality
+reflected,Eventuality
+reflecting,Eventuality
+reflects,Eventuality
+release,Eventuality
+released,Eventuality
+releases,Eventuality
+releasing,Eventuality
+remain,Eventuality
+remains,Eventuality
+retreat,Eventuality
+retreated,Eventuality
+retreating,Eventuality
+retreats,Eventuality
+slow,Eventuality
+slow down,Eventuality
+slowed,Eventuality
+slowed down,Eventuality
+slowing,Eventuality
+slowing down,Eventuality
+slows,Eventuality
+snowed,Eventuality
+snowing,Eventuality
+sped-up,Eventuality
+speed-up,Eventuality
+spread out,Eventuality
+survive,Eventuality
+survived,Eventuality
+surviving,Eventuality
+thickened,Eventuality
+thickening,Eventuality
+weather,Eventuality
+wind,Eventuality
+winds,Eventuality
+ice,Ice
+Alaska,Location
+Arctic,Location
+Arctic Ocean,Location
+Atlantic,Location
+Baffin Bay,Location
+Barents Sea,Location
+Barrents and Beaufort seas,Location
+Barrow,Location
+Beaufort and Chukchi seas,Location
+Beaufort Sea,Location
+Bering Strait,Location
+Canadian Archipelago,Location
+Chukchi Sea,Location
+circuates,Location
+circulated,Location
+circulating,Location
+East Greenland Sea,Location
+East Siberian Sea,Location
+Fram Strait,Location
+Greenland,Location
+Hudson Bay,Location
+ice station,Location
+Kara Sea,Location
+Laptev,Location
+New Siberian Islands,Location
+North Pole,Location
+Northern Hemisphere,Location
+Northern Sea Route,Location
+Northwest Passage,Location
+Norwegian Sea,Location
+Parry Channel,Location
+pole,Location
+poles,Location
+Russia,Location
+Siberian,Location
+South Pole,Location
+Spitsbergen,Location
+autumn,Season
+melt season,Season
+spring,Season
+summer,Season
+summers,Season
+the melt season,Season
+the summer melt season,Season
+winter,Season
+winters,Season
+snow,Snow
+daily,Time
+monthly,Time
+weekly,Time
+yearly,Time
+age,Trait
+albedo,Trait
+ATID,Trait
+color,Trait
+concentration,Trait
+density,Trait
+depth,Trait
+energy,Trait
+energy adsorption,Trait
+extent,Trait
+intensity,Trait
+linear rate,Trait
+mass,Trait
+opacity,Trait
+pace,Trait
+rate,Trait
+rates,Trait
+reflectivity,Trait
+temperature,Trait
+texture,Trait
+thickness,Trait
+trend,Trait
+volume,Trait
+width,Trait
+%,Unit
+degrees Celsius,Unit
+degrees Fahrenheit,Unit
+kilometer,Unit
+meter,Unit
+mile,Unit
+square kilometer,Unit
+square mile,Unit
+cold,Value
+cool,Value
+hot,Value
+hPa level,Value
+negative,Value
+positive,Value
+sea level,Value
+warm,Value
+water,Water
+aground,Ice_attachment
+concentrations,Trait
+thicknesses,Trait

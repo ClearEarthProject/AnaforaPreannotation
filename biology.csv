@@ -1,0 +1,524 @@
+abiotic entity,Abiotic_Entity
+absent,Quality
+abundant,Quality
+adaptability,Quality
+adaptation,Eventuality
+biological adaptation,Eventuality
+adult,Biotic_Entity
+aggressive mimicry,Quality
+algae,Biotic_Entity
+algivore,Biotic_Entity
+all living organisms,Biotic_Entity
+alternative prey,Biotic_Entity
+ambush predator,Biotic_Entity
+sit and wait predator,Biotic_Entity
+anabolism,Eventuality
+animal migration,Eventuality
+animal material,Biotic_Entity
+animal remains,Biotic_Entity
+animal tissue,Biotic_Entity
+animals,Biotic_Entity
+top predator,Biotic_Entity
+apex predator,Biotic_Entity
+aposematism,Quality
+aquatic,Quality
+area,Abiotic_Entity
+spatial Object,Abiotic_Entity
+arrangement,Quality
+asexual reproduction,Eventuality
+assimilation,Eventuality
+atmosphere,Abiotic_Entity
+atom,Abiotic_Entity
+attack,Eventuality
+automimicry,Quality
+autotroph,Biotic_Entity
+primary producer,Biotic_Entity
+producer,Biotic_Entity
+autotrophic organism,Biotic_Entity
+complete autotroph,Biotic_Entity
+autotrophic,Quality
+avoid detection,Eventuality
+bacteria,Biotic_Entity
+bacterial,Quality
+bacterivore,Biotic_Entity
+bactivory,Eventuality
+basal species,Biotic_Entity
+base,Aggregate_Biotic_Abiotic_Entity
+Batesian mimicry,Quality
+behavior,Eventuality
+biofilm,Biotic_Entity
+biomass,Biotic_Entity
+biomass,Quality
+body mass,Quality
+biomass,Quality
+biomineralization,Eventuality
+biotic entity,Biotic_Entity
+bite,Eventuality
+bottom-up control,Eventuality
+bottom-up interaction,Eventuality
+bottom-up effect,Eventuality
+calcification,Eventuality
+caloric need,Quality
+camoflage,Quality
+cryptic coloration,Quality
+cannibalism,Eventuality
+capture,Eventuality
+subdue,Eventuality
+carbohydrate molecule,Biotic_Entity
+carbohydrate,Biotic_Entity
+carbon,Abiotic_Entity
+carbon cycle,Eventuality
+carbon fixation,Eventuality
+carnivore,Biotic_Entity
+carnivorous,Quality
+carnivory,Eventuality
+carrion,Biotic_Entity
+catabolism,Eventuality
+cell,Biotic_Entity
+cell division,Eventuality
+cell growth,Eventuality
+cell parts,Biotic_Entity
+cellularity,Quality
+cellulose,Biotic_Entity
+chemical digestion,Eventuality
+chemical energy,Abiotic_Entity
+chemical reaction,Eventuality
+chemoautotrophic,Quality
+chemolithotroph,Biotic_Entity
+chew,Eventuality
+climate,Quality
+climate pattern,Abiotic_Entity
+coastal zone,Aggregate_Biotic_Abiotic_Entity
+color,Quality
+common,Quality
+community,Biotic_Entity
+community-level cascades,Eventuality
+competition,Eventuality
+competitor,Biotic_Entity
+complexity,Quality
+conservation status,Quality
+consumption,Eventuality
+feeding relations,Eventuality
+feed,Eventuality
+feed on,Eventuality
+eat,Eventuality
+feeding,Eventuality
+continental shelves,Aggregate_Biotic_Abiotic_Entity
+crypsis,Quality
+decomposer,Biotic_Entity
+saprotroph,Biotic_Entity
+break down,Eventuality
+decomposition,Eventuality
+defecation,Eventuality
+density,Quality
+depth,Quality
+desert scrub,Aggregate_Biotic_Abiotic_Entity
+detritus feeder,Biotic_Entity
+desert scrub ecosystem,Aggregate_Biotic_Abiotic_Entity
+detritivore,Biotic_Entity
+detritivory,Eventuality
+detritus,Aggregate_Biotic_Abiotic_Entity
+development,Eventuality
+developmental stage,Eventuality
+diet,Quality
+digestion,Eventuality
+digestive system,Biotic_Entity
+dioecious,Quality
+disable,Eventuality
+dissolved organic carbon,Biotic_Entity
+DOC,Biotic_Entity
+diversified,Eventuality
+ecological efficiency,Quality
+ecosystem,Aggregate_Biotic_Abiotic_Entity
+ecological community,Aggregate_Biotic_Abiotic_Entity
+network,Aggregate_Biotic_Abiotic_Entity
+ecosystem engineer,Biotic_Entity
+efficiency of transfer,Quality
+egg,Biotic_Entity
+egg predation,Eventuality
+element,Abiotic_Entity
+elimination,Eventuality
+embryo,Biotic_Entity
+endangered,Quality
+endangered species,Biotic_Entity
+energy,Abiotic_Entity
+environment,Aggregate_Biotic_Abiotic_Entity
+epipelagic zone,Aggregate_Biotic_Abiotic_Entity
+escape,Eventuality
+evolution,Eventuality
+adaptation,Eventuality
+evolutionary arms race,Eventuality
+selective pressure,Eventuality
+selection pressure,Eventuality
+evolutionary pressure,Eventuality
+excretia,Biotic_Entity
+excretion,Eventuality
+existence of a part,Quality
+ectoparasite,Biotic_Entity
+extinct,Eventuality
+external parasite,Biotic_Entity
+extinction,Eventuality
+extra-cellular matrix,Biotic_Entity
+exudate,Biotic_Entity
+released,Eventuality
+exudation,Eventuality
+fatty acid,Biotic_Entity
+fecal pellet,Biotic_Entity
+feces,Biotic_Entity
+feeding behavior,Eventuality
+fetus,Biotic_Entity
+fitness,Quality
+food chain,Aggregate_Biotic_Abiotic_Entity
+food particle,Biotic_Entity
+food resource,Biotic_Entity
+food source,Biotic_Entity
+food size,Quality
+food web,Aggregate_Biotic_Abiotic_Entity
+consumer-resource system,Aggregate_Biotic_Abiotic_Entity
+topological web,Aggregate_Biotic_Abiotic_Entity
+food cycle,Aggregate_Biotic_Abiotic_Entity
+web of life,Aggregate_Biotic_Abiotic_Entity
+trophic system,Aggregate_Biotic_Abiotic_Entity
+forage,Eventuality
+forage,Biotic_Entity
+fossil,Biotic_Entity
+fossil organism,Biotic_Entity
+frass,Biotic_Entity
+free-living,Quality
+freshwater,Quality
+freshwater,Aggregate_Biotic_Abiotic_Entity
+functional group,Biotic_Entity
+fungal,Quality
+fungi,Biotic_Entity
+fungivore,Biotic_Entity
+gamete,Biotic_Entity
+generalist,Biotic_Entity
+glycoprotein,Biotic_Entity
+gonochorism,Quality
+grain eater,Biotic_Entity
+grass,Biotic_Entity
+grazing - algae scraping,Eventuality
+grazing - capture feeding,Eventuality
+grazing - filter feeding,Eventuality
+grazing - microbes,Eventuality
+grazing - plants,Eventuality
+gross primary production,Quality
+gross primary productivity,Quality
+grow,Eventuality
+growing,Eventuality
+grew,Eventuality
+growth,Eventuality
+growth respiration,Eventuality
+guano,Biotic_Entity
+heat,Abiotic_Entity
+height,Quality
+herbivore,Biotic_Entity
+herbivorous,Quality
+herbivorous browsing,Eventuality
+herbivorous grazing,Eventuality
+plant trophism,Eventuality
+consumer,Biotic_Entity
+complete heterotroph,Biotic_Entity
+herbivory,Eventuality
+heterotroph,Biotic_Entity
+heterotrophic,Quality
+host,Biotic_Entity
+hot spring,Aggregate_Biotic_Abiotic_Entity
+hunting,Eventuality
+hydrothermal vent,Aggregate_Biotic_Abiotic_Entity
+idea,Abiotic_Entity
+ingestion,Eventuality
+inorganic matter,Abiotic_Entity
+inorganic substance,Abiotic_Entity
+inorganic compound,Abiotic_Entity
+inorganic material,Abiotic_Entity
+insectivore,Biotic_Entity
+insectivory,Eventuality
+biotic interaction,Eventuality
+interact,Eventuality
+interaction,Eventuality
+endoparasite,Biotic_Entity
+internal parasite,Biotic_Entity
+intertidal zone,Aggregate_Biotic_Abiotic_Entity
+intraguild predation,Eventuality
+introduced predator,Biotic_Entity
+introduced species,Biotic_Entity
+juvenile,Biotic_Entity
+kelp forest,Aggregate_Biotic_Abiotic_Entity
+keystone species,Biotic_Entity
+kill,Eventuality
+kills,Eventuality
+killing,Eventuality
+killed,Eventuality
+labile,Quality
+larvae,Biotic_Entity
+lay (eggs),Eventuality
+leachate,Abiotic_Entity
+leaf litter,Biotic_Entity
+length,Quality
+cycle of life,Eventuality
+life cycle,Eventuality
+biological process,Eventuality
+life process,Eventuality
+life span,Quality
+light,Abiotic_Entity
+limnetic zone,Aggregate_Biotic_Abiotic_Entity
+lipid,Biotic_Entity
+litter transformer,Biotic_Entity
+litter/clutch size,Quality
+live,Eventuality
+living,Eventuality
+alive,Eventuality
+break open,Eventuality
+lysis,Eventuality
+lysing,Eventuality
+lyse,Eventuality
+macrofauna,Biotic_Entity
+maintenance respiration,Eventuality
+maintenance ,Eventuality
+maintain,Eventuality
+obtain,Eventuality
+obtaining,Eventuality
+obtained,Eventuality
+processed ,Eventuality
+processes,Eventuality
+processing,Eventuality
+changed,Eventuality
+changing,Eventuality
+change,Eventuality
+manure,Biotic_Entity
+marine,Quality
+marine ecosystem,Aggregate_Biotic_Abiotic_Entity
+marine food web,Aggregate_Biotic_Abiotic_Entity
+mass,Quality
+material resources,Aggregate_Biotic_Abiotic_Entity
+matter,Aggregate_Biotic_Abiotic_Entity
+mechanical digestion,Eventuality
+metabolism,Eventuality
+microbe,Biotic_Entity
+microbial community,Biotic_Entity
+microbial food web,Aggregate_Biotic_Abiotic_Entity
+migration,Eventuality
+mimesis,Quality
+mimicry,Quality
+mineral,Abiotic_Entity
+mineral nutrient,Abiotic_Entity
+mixotroph,Biotic_Entity
+mixotrophic,Quality
+molecule,Biotic_Entity
+monoecious,Quality
+monophagous,Quality
+morphology,Quality
+mucilage,Biotic_Entity
+multi-trophic interaction,Eventuality
+multicellular organism,Biotic_Entity
+mutualism,Eventuality
+mutualist,Biotic_Entity
+mutualistic,Quality
+fungivory,Eventuality
+mycophagy,Eventuality
+indigenous species,Biotic_Entity
+native species,Biotic_Entity
+nervous system,Biotic_Entity
+net primary production,Quality
+net primary productivity,Quality
+niche,Quality
+nitrogen,Abiotic_Entity
+nitrogen cycle,Eventuality
+nutrient,Aggregate_Biotic_Abiotic_Entity
+nutritional quality,Quality
+nymph,Biotic_Entity
+ocean,Aggregate_Biotic_Abiotic_Entity
+offspring,Biotic_Entity
+omnivore,Biotic_Entity
+omnivorous,Quality
+oophagy,Eventuality
+open ocean,Aggregate_Biotic_Abiotic_Entity
+organ,Biotic_Entity
+organ system,Biotic_Entity
+organic,Quality
+organic material,Biotic_Entity
+organic matter,Biotic_Entity
+organic substance,Biotic_Entity
+living thing,Biotic_Entity
+living organism,Biotic_Entity
+life form,Biotic_Entity
+living source,Biotic_Entity
+organism,Biotic_Entity
+oviparous,Quality
+ovoviviparity,Quality
+chemical oxidation,Eventuality
+oxidation,Eventuality
+parasite,Biotic_Entity
+parasitic,Quality
+parasitism,Eventuality
+parasitoidism,Eventuality
+parasitoids,Biotic_Entity
+parasitoid predators,Biotic_Entity
+parthenogenesis,Eventuality
+particulate organic carbon,Biotic_Entity
+POC,Biotic_Entity
+color pattern,Quality
+pattern,Quality
+periphyton,Biotic_Entity
+phospholipid,Biotic_Entity
+phosphorus,Abiotic_Entity
+photic zone,Aggregate_Biotic_Abiotic_Entity
+euphotic zone,Aggregate_Biotic_Abiotic_Entity
+photoautotrophic,Quality
+photosynthate,Biotic_Entity
+photosynthesis,Eventuality
+photosynthetic,Quality
+phytoplankton,Biotic_Entity
+placenta,Biotic_Entity
+plankton,Biotic_Entity
+plant migration,Eventuality
+plant tissue,Biotic_Entity
+plants,Biotic_Entity
+plant material,Biotic_Entity
+organic plant material,Biotic_Entity
+plant life,Biotic_Entity
+plug,Eventuality
+polymer,Abiotic_Entity
+polyphagous,Quality
+polysaccharide,Biotic_Entity
+population,Biotic_Entity
+population abundance,Quality
+population density,Quality
+population distribution,Quality
+predation,Eventuality
+prey organism,Biotic_Entity
+true predator,Biotic_Entity
+predation risk,Quality
+predator,Biotic_Entity
+predator avoidance,Eventuality
+preferred prey,Biotic_Entity
+present,Quality
+prey,Biotic_Entity
+primary consumer,Biotic_Entity
+primary growth,Eventuality
+primary production,Eventuality
+process,Eventuality
+production,Eventuality
+protein,Biotic_Entity
+pupa,Biotic_Entity
+pupation,Eventuality
+pursuit deterrent,Eventuality
+quaternary consumer,Biotic_Entity
+quartary consumer,Biotic_Entity
+rare,Quality
+reduction,Eventuality
+regeneration,Eventuality
+region,Abiotic_Entity
+reproduction,Eventuality
+reproductive interval,Quality
+reproductive method,Quality
+reproductive rate,Quality
+resilience,Quality
+resistant,Eventuality
+respiration,Eventuality
+metabolic respiration,Eventuality
+riparian,Quality
+riverine,Quality
+root herbivore,Biotic_Entity
+salinity,Quality
+salt concentration,Quality
+salt content,Quality
+saprophytic,Quality
+scavenger,Biotic_Entity
+scavenging,Eventuality
+secondary consumer,Biotic_Entity
+secondary growth,Eventuality
+metabolic production,Eventuality
+assimilation,Eventuality
+secondary production,Eventuality
+secretion,Eventuality
+seed,Biotic_Entity
+seed predation,Eventuality
+sexual reproduction,Eventuality
+shape,Quality
+shortgrass prairie,Aggregate_Biotic_Abiotic_Entity
+shortgrass prairie ecosystem,Aggregate_Biotic_Abiotic_Entity
+short grass prairie,Aggregate_Biotic_Abiotic_Entity
+single celled organism,Biotic_Entity
+size,Quality
+social animal,Biotic_Entity
+social predation,Eventuality
+solitary animal,Biotic_Entity
+solitary creatures,Biotic_Entity
+social creatures,Biotic_Entity
+somatic cell,Biotic_Entity
+specialist,Biotic_Entity
+species,Biotic_Entity
+species richness,Quality
+species-level cascades,Eventuality
+spore,Biotic_Entity
+spotted,Quality
+starch,Biotic_Entity
+striped,Quality
+subsoil,Aggregate_Biotic_Abiotic_Entity
+sugar,Biotic_Entity
+sunlight,Abiotic_Entity
+Sun's energy,Abiotic_Entity
+solar energy,Abiotic_Entity
+light,Abiotic_Entity
+sunlight energy,Abiotic_Entity
+surface waters,Aggregate_Biotic_Abiotic_Entity
+survival rate,Quality
+symbiosis,Eventuality
+symbiotic relationship,Eventuality
+synthesis,Eventuality
+taxon,Biotic_Entity
+terrestrial ecosystem,Aggregate_Biotic_Abiotic_Entity
+tertiary consumer,Biotic_Entity
+tide mark,Abiotic_Entity
+time,Time
+tissue,Biotic_Entity
+top consumer,Biotic_Entity
+top-down control,Eventuality
+transport,Eventuality
+trapping,Eventuality
+trophic cascade,Eventuality
+trophic level,Biotic_Entity
+trophic transfer,Eventuality
+tropical forest biome,Aggregate_Biotic_Abiotic_Entity
+urine,Biotic_Entity
+vegetative resource,Biotic_Entity
+virus,Biotic_Entity
+viviparity,Quality
+warning coloration,Quality
+waste,Biotic_Entity
+width,Quality
+zooplankton,Biotic_Entity
+zygote,Biotic_Entity
+waste by-product,Biotic_Entity
+top-down interaction,Biotic_Entity
+top-down effect,Biotic_Entity
+trophic species,Biotic_Entity
+feeding level,Biotic_Entity
+trophic position,Biotic_Entity
+trophic layer,Biotic_Entity
+configuration,Quality
+arrangement,Quality
+number,Quality
+numbers,Quality
+present,Quality
+absent,Quality
+available,Quality
+defenses,Quality
+toxic,Quality
+chemical,Quality
+physical,Quality
+structural,Quality
+antiherbivore,Quality
+upright,Quality
+body size,Quality
+partial sun,Quality
+full sun,Quality
+partial shade,Quality
+full shade,Quality
+high-lignin,Quality
+low-lignin,Quality
+nutrient rich,Quality
+dioecious,Quality
+monoecious,Quality
