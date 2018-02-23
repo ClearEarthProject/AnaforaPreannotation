@@ -86,10 +86,10 @@ protocol="file">temporal.schema.xml</schema>\n\n<annotations>\n'
 
 def main():
 	parser = argparse.ArgumentParser()
-	parser.add_argument('--csv', dest='csv', help="CSV of phrases to preannotate")
-	parser.add_argument('--schema', dest='schema', help="Path to Anafora schema XML")
-	parser.add_argument('--name', dest='name', help="Schema name used in the filenames")
-	parser.add_argument('--directory', dest='directory', help="Anafora directory to create preannotation files for")
+	parser.add_argument('--csv', dest='csv', help="CSV of phrases to preannotate", required=True)
+	parser.add_argument('--schema', dest='schema', help="Path to Anafora schema XML", required=True)
+	parser.add_argument('--name', dest='name', help="Schema name used in the filenames", required=True)
+	parser.add_argument('--directory', dest='directory', help="Anafora directory to create preannotation files for", required=True)
 	args = parser.parse_args()
 	print(args)
 	parents = get_parent_types(args.schema)
